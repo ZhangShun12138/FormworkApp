@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiApplication", "WebApi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplication\WebApplication.csproj", "{5EDC5CE2-A67B-40B6-B4FE-018077C89826}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFGetStarted", "EFGetStarted\EFGetStarted.csproj", "{2D151EF7-5192-4BAB-9F57-3F38E21F4AC9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfInfrastructure", "EfInfrastructure\EfInfrastructure.csproj", "{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}"
 EndProject
 Global
@@ -37,10 +35,6 @@ Global
 		{5EDC5CE2-A67B-40B6-B4FE-018077C89826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EDC5CE2-A67B-40B6-B4FE-018077C89826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EDC5CE2-A67B-40B6-B4FE-018077C89826}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2D151EF7-5192-4BAB-9F57-3F38E21F4AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D151EF7-5192-4BAB-9F57-3F38E21F4AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D151EF7-5192-4BAB-9F57-3F38E21F4AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D151EF7-5192-4BAB-9F57-3F38E21F4AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}.Release|Any CPU.ActiveCfg = Release|Any CPU

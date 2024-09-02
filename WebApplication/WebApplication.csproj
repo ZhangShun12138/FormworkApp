@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EfInfrastructure\EfInfrastructure.csproj" />
+    <ProjectReference Include="..\ToolClassLibrary\ToolClassLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
