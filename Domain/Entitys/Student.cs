@@ -1,4 +1,4 @@
-﻿namespace EfInfrastructure.Models;
+﻿namespace Domain.Entitys;
 
 public class Student
 {

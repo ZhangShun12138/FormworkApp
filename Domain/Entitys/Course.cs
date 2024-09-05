@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace EfInfrastructure.Models;
+namespace Domain.Entitys;
 
 public class Course
 {

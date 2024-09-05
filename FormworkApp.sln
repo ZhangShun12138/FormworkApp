@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfInfrastructure", "EfInfrastructure\EfInfrastructure.csproj", "{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{DFA360E1-969D-4589-AC19-4ED479A27D5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2482AE9F-F77A-4428-9C91-EFF7BF4B249C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA360E1-969D-4589-AC19-4ED479A27D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA360E1-969D-4589-AC19-4ED479A27D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA360E1-969D-4589-AC19-4ED479A27D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA360E1-969D-4589-AC19-4ED479A27D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,5 @@
 ﻿using EfInfrastructure;
-using EfInfrastructure.Models;
+using Domain.Entitys;
 
 namespace WebApplication.TestData;
 public static class DbInitializer

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace EfInfrastructure.Models;
+namespace Domain.Entitys;
 
 public enum Grade
 {

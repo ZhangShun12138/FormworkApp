@@ -1,4 +1,4 @@
-﻿using EfInfrastructure.Models;
+﻿using Domain.Entitys;
 using Microsoft.EntityFrameworkCore;
 
 namespace EfInfrastructure;
